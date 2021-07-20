@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>我的视频测试文章</title>
+    <url>/2021/04/26/%E6%88%91%E7%9A%84%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h3 id="我的视频测试文章"><a href="#我的视频测试文章" class="headerlink" title="我的视频测试文章"></a>我的视频测试文章</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1483504368&auto=1&height=66"></iframe>
+
+
+
+<iframe 
+    width="800" 
+    height="450" 
+    src='https://player.youku.com/embed/XNDE5NjYzOTg0OA=='
+    frameborder="0" 
+    allowfullscreen>
+</iframe>]]></content>
+  </entry>
+  <entry>
+    <title>数学公式</title>
+    <url>/2021/04/28/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
+    <content><![CDATA[<p>$$\left( \dfrac {1}{2}-2x\right) ^{2}$$</p>
+<p>$$f\left( x\right) =2x^{2}+2x+1$$</p>
+<p>网址：<a href="http://webdemo.myscript.com/views/math.html#/demo/equation">http://webdemo.myscript.com/views/math.html#/demo/equation</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>随便</title>
+    <url>/2021/04/29/%E9%9A%8F%E4%BE%BF/</url>
+    <content><![CDATA[<p>  今天天气不错，我的心情很好！终于可以写些东西了。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>markdown</title>
+    <url>/2021/04/21/markdown/</url>
+    <content><![CDATA[<hr>
+<h1 id="正文"><a href="#正文" class="headerlink" title="*正文*"></a><em><strong>*正文*</strong></em></h1><p>markdown的正文内容很好写，就按照一篇HTML文档写就可以了；但是不需要写那些样板代码，直接写普通文字或者我们想要嵌入的HTML标签和css样式即可。markdown文档的换行也和HTML是类似的，你敲一个换行符他会当做什么都没发生，想要换行你可以使用HTML的<br>标签或者是两段文字中间空一行。…</p>
+<h1 id="标题"><a href="#标题" class="headerlink" title="*标题*"></a><em><strong>*标题*</strong></em></h1><p>使用n个#加一个空格表示n级标题。</p>
+<p>例如：</p>
+<p># 一级标题</p>
+<p>## 二级标题</p>
+<p>### 三级标题</p>
+<h1 id="列表"><a href="#列表" class="headerlink" title="*列表*"></a><em><strong>*列表*</strong></em></h1><h2 id="无序列表"><a href="#无序列表" class="headerlink" title="*无序列表*"></a><em><strong>*无序列表*</strong></em></h2><p>使用*加一个空格表示，还可以使用 + - 表示，和 * 是一样的。建议在文档中使用自己喜欢的一种，而且在一组列表中不要混用多种标签，这样在不同的解释器中可能会被解释成不同的列表组。</p>
+<p>代码：</p>
+<p>* 1 </p>
+<p>* 2</p>
+<p>- 3</p>
+<p>- 4</p>
+<p>+ 5</p>
+<p>+ 6</p>
+<p>样式：</p>
+<p>· </p>
+<p>1</p>
+<p>· </p>
+<p>· </p>
+<p>2</p>
+<p>· </p>
+<p>· </p>
+<p>3</p>
+<p>· </p>
+<p>· </p>
+<p>4</p>
+<p>· </p>
+<p>· </p>
+<p>5</p>
+<p>· </p>
+<p>· </p>
+<p>6</p>
+<p>· </p>
+<h2 id="有序列表"><a href="#有序列表" class="headerlink" title="*有序列表*"></a><em><strong>*有序列表*</strong></em></h2><p>使用正常的数字加一个.和空格表示。有序列表的序号有些解释器会根据第一行列表的数字顺序来递增的，还有一种会默认从1开始递增。</p>
+<p>代码：</p>
+<p>\1. 12. 23. 3</p>
+<p>样式：</p>
+<p>\1. 1</p>
+<p>\2. 2</p>
+<p>\3. 3</p>
+<p>代码：</p>
+<p>\3. 32. 21. 1</p>
+<p>博客中样式：</p>
+<p>\1. 3</p>
+<p>\2. 2</p>
+<p>\3. 1</p>
+<p>markdown解释器样式：</p>
+<p><img src="file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml9276\wps1.png" alt="img"> </p>
+<p>image</p>
+<h1 id="区块引用"><a href="#区块引用" class="headerlink" title="*区块引用*"></a><em><strong>*区块引用*</strong></em></h1><p>区块引用使用&gt;表示，为了代码的美观性，我们也在后面加一个空格表示。</p>
+<p>代码：</p>
+<p>&gt; 这是一个区块引用</p>
+<p>&gt; 这是另一个区块引用&gt;&gt; 这是一个二级嵌套引用&gt;&gt;&gt; 这是一个三级嵌套引用</p>
+<p>博客中样式：</p>
+<p>这是一个区块引用</p>
+<p>这是一个区块引用</p>
+<p>这是一个二级嵌套引用</p>
+<p>这是一个三级嵌套引用</p>
+<p>markdown解释器样式：</p>
+<p><img src="file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml9276\wps2.png" alt="img"></p>
+<p>083405_jm6x_3617290.png</p>
+<h1 id="链接"><a href="#链接" class="headerlink" title="*链接*"></a><em><strong>*链接*</strong></em></h1><h2 id="行内式"><a href="#行内式" class="headerlink" title="*行内式*"></a><em><strong>*行内式*</strong></em></h2><p>行内式的链接格式是：链接的文字放在[]中，链接地址放在随后的（）中。</p>
+<p>代码：</p>
+<p><a href="https://links.jianshu.com/go?to=https://my.oschina.net/epoch/home">我的博客</a></p>
+<h2 id="参数式"><a href="#参数式" class="headerlink" title="*参数式*"></a><em><strong>*参数式*</strong></em></h2><p>链接还可以带title属性，好像也只能带title，带不了其他属性，注意，是链接地址后面空一格，然后用引号引起来。</p>
+<p>代码：</p>
+<p>这是我的<a href="https://my.oschina.net/epoch/home" title="我的博客">blog</a>,我想看到我的中文提示<a href="https://my.oschina.net/epoch/home" title="KevinBruce的博客">我的博客</a></p>
+<p>样式：</p>
+<p>这是我的<a href="https://links.jianshu.com/go?to=https://my.oschina.net/epoch/home">blog</a>,我想看到我的中文提示<a href="https://links.jianshu.com/go?to=https://my.oschina.net/epoch/home">我的博客</a></p>
+<p>如果我们在文中可能会多次使用这个链接，我们可以单独拆分出来定义标签名称；如果只是使用一次直接使用行内式即可。</p>
+<h1 id="图片"><a href="#图片" class="headerlink" title="*图片*"></a><em><strong>*图片*</strong></em></h1><p>用法跟链接的基本一样，唯一的不同就是，图片前面要写一个!（这是必须的），没什么好说的。</p>
+<h2 id="行内式-1"><a href="#行内式-1" class="headerlink" title="*行内式*"></a><em><strong>*行内式*</strong></em></h2><p>代码：</p>
+<p><img src="https://static.oschina.net/uploads/user/1808/3617290_100.jpeg?t=1523231638000" alt="我的图片" title="我的开源中国博客logo"></p>
+<p>样式：</p>
+<p><img src="file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml9276\wps3.png" alt="img"> </p>
+<h2 id="参数式2"><a href="#参数式2" class="headerlink" title="****参数式2"></a>****参数式2</h2><p>代码：</p>
+<p>这是参数式的引用<img src="/images/test.jpg" alt="我的logo" title="我的开源中国博客logo"></p>
+<p>样式：</p>
+<p><img src="file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml9276\wps4.png" alt="img"> </p>
+<p>logo</p>
+<h1 id="代码块"><a href="#代码块" class="headerlink" title="*代码块*"></a><em><strong>*代码块*</strong></em></h1><h2 id="单行代码块"><a href="#单行代码块" class="headerlink" title="*单行代码块*"></a><em><strong>*单行代码块*</strong></em></h2><p>如果代码量比较少，只有单行的话，可以用单反引号包起来。反引号是键盘esc键下方的那个按键。</p>
+<p>代码：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;p&gt;这是一个代码块&lt;/p&gt;</span><br></pre></td></tr></table></figure>
+
+<p>样式：</p>
+<p>这是一个代码块</p>
+
+<h2 id="多行代码块"><a href="#多行代码块" class="headerlink" title="*多行代码块*"></a><em><strong>*多行代码块*</strong></em></h2><p>如果代码比较多，用单行写不完，那么可以使用三个反引号来引用代码块。也可以使用一个tab或者是四个空格来表示 。在上方的```后可以添加代码语言，可以对关键字进行不同颜色的显示。</p>
+<p>代码:</p>
+<p>“```java</p>
+<p>class Test {</p>
+<p> public static void main(String[] args) {</p>
+<p>   System.out.println(“Hello  World!”);</p>
+<p> }</p>
+<p>}</p>
+<p>```”</p>
+<p>*** 为了避免解析器解析出问题，我将样例代码用双引号引起来，实际代码是没有双引号的。</p>
+<p>样式：</p>
+<p>class Test {</p>
+<p> public static void main(String[] args) {</p>
+<p>   System.out.println(“Hello  World!”);</p>
+<p> }}</p>
+<h1 id="表格"><a href="#表格" class="headerlink" title="*表格*"></a><em><strong>*表格*</strong></em></h1><p>表格的格式不一定要对的非常齐，但是为了好看，对齐肯定是最好的，分割线后面的冒号表示对齐方式，写在左边表示左对齐，右边为右对齐，两边都写表示居中，还是有点意思的。</p>
+<p>代码：</p>
+<p>|  姓名 | 年龄 |  性别 ||:—–|—–:|:—–:||Kevin |  18  |  男  ||Jack  |  17  |  女  ||Bruce |  19  |  男  |</p>
+<p>样式：</p>
+<table>
+<thead>
+<tr>
+<th><em><strong>*姓名*</strong></em></th>
+<th><em><strong>*年龄*</strong></em></th>
+<th><em><strong>*性别*</strong></em></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Kevin</td>
+<td>18</td>
+<td>男</td>
+</tr>
+<tr>
+<td>Jack</td>
+<td>17</td>
+<td>女</td>
+</tr>
+<tr>
+<td>Bruce</td>
+<td>19</td>
+<td>男</td>
+</tr>
+</tbody></table>
+<h1 id="分隔线"><a href="#分隔线" class="headerlink" title="*分隔线*"></a><em><strong>*分隔线*</strong></em></h1><p>分割线可以由* - _（星号，减号，底线）这3个符号的至少3个符号表示，注意至少要3个，且不需要连续，有空格也可以,但是两个符号之间最多只能有一个空格。建议使用减号-表示</p>
+<p>代码：</p>
+<p>-–</p>
+<hr>
+<p>* **</p>
+<p>样式：</p>
+<p><img src="file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml9276\wps5.png" alt="img"> </p>
+<p>084706_mhlI_3617290.png</p>
+<h1 id="删除线"><a href="#删除线" class="headerlink" title="*删除线*"></a><em><strong>*删除线*</strong></em></h1><p>代码：</p>
+<p><del>删除我吧</del></p>
+<p>样式：</p>
+<p>删除我吧</p>
+]]></content>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/07/14/hello-world/</url>
+    <content><![CDATA[<p>​    大家好,我是叶知昕!这是我的第一个博客,多谢关注!谢谢!!!!###</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+  </entry>
+</search>
