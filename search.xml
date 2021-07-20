@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>数学公式</title>
-    <url>/2021/04/28/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
-    <content><![CDATA[<p>$$\left( \dfrac {1}{2}-2x\right) ^{2}$$</p>
-<p>$$f\left( x\right) =2x^{2}+2x+1$$</p>
-<p>网址：<a href="http://webdemo.myscript.com/views/math.html#/demo/equation">http://webdemo.myscript.com/views/math.html#/demo/equation</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>随便</title>
-    <url>/2021/04/29/%E9%9A%8F%E4%BE%BF/</url>
-    <content><![CDATA[<p>  今天天气不错，我的心情很好！终于可以写些东西了。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>markdown</title>
     <url>/2021/04/21/markdown/</url>
     <content><![CDATA[<hr>
@@ -97,7 +80,8 @@
 <p>样式：</p>
 <p><img src="file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml9276\wps3.png" alt="img"> </p>
 <h2 id="参数式2"><a href="#参数式2" class="headerlink" title="****参数式2"></a>****参数式2</h2><p>代码：</p>
-<p>这是参数式的引用<img src="/images/test.jpg" alt="我的logo" title="我的开源中国博客logo"></p>
+<p><a href="/images/test.jpg">我的logo</a>    “我的开源中国博客logo”</p>
+<p>这是参数式的引用![我的logo]</p>
 <p>样式：</p>
 <p>![img]: /image/avatar的副本.jpg </p>
 <p>logo</p>
@@ -203,5 +187,22 @@
     frameborder="0" 
     allowfullscreen>
 </iframe>]]></content>
+  </entry>
+  <entry>
+    <title>数学公式</title>
+    <url>/2021/04/28/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
+    <content><![CDATA[<p>$$\left( \dfrac {1}{2}-2x\right) ^{2}$$</p>
+<p>$$f\left( x\right) =2x^{2}+2x+1$$</p>
+<p>网址：<a href="http://webdemo.myscript.com/views/math.html#/demo/equation">http://webdemo.myscript.com/views/math.html#/demo/equation</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>随便</title>
+    <url>/2021/04/29/%E9%9A%8F%E4%BE%BF/</url>
+    <content><![CDATA[<p>  今天天气不错，我的心情很好！终于可以写些东西了。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
   </entry>
 </search>
