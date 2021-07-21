@@ -7,6 +7,12 @@
 ]]></content>
   </entry>
   <entry>
+    <title>我有新笔记本了</title>
+    <url>/2021/07/21/%E6%88%91%E6%9C%89%E6%96%B0%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%BA%86/</url>
+    <content><![CDATA[<p>旅游</p>
+]]></content>
+  </entry>
+  <entry>
     <title>我的视频测试文章</title>
     <url>/2021/04/26/%E6%88%91%E7%9A%84%E8%A7%86%E9%A2%91%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<h3 id="我的视频测试文章"><a href="#我的视频测试文章" class="headerlink" title="我的视频测试文章"></a>我的视频测试文章</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1483504368&auto=1&height=66"></iframe>
@@ -20,27 +26,6 @@
     frameborder="0" 
     allowfullscreen>
 </iframe>]]></content>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/07/14/hello-world/</url>
-    <content><![CDATA[<p>​    大家好,我是叶知昕!这是我的第一个博客,多谢关注!谢谢!!!!###</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
   </entry>
   <entry>
     <title>markdown</title>
@@ -195,6 +180,35 @@
       </tags>
   </entry>
   <entry>
+    <title>数学公式</title>
+    <url>/2021/04/28/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
+    <content><![CDATA[<p>$$\left( \dfrac {1}{2}-2x\right) ^{2}$$</p>
+<p>$$f\left( x\right) =2x^{2}+2x+1$$</p>
+<p>网址：<a href="http://webdemo.myscript.com/views/math.html#/demo/equation">http://webdemo.myscript.com/views/math.html#/demo/equation</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/07/14/hello-world/</url>
+    <content><![CDATA[<p>​    大家好,我是叶知昕!这是我的第一个博客,多谢关注!谢谢!!!!###</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+  </entry>
+  <entry>
     <title>随便</title>
     <url>/2021/04/29/%E9%9A%8F%E4%BE%BF/</url>
     <content><![CDATA[<p>  今天天气不错，我的心情很好！终于可以写些东西了。</p>
@@ -202,13 +216,5 @@
       <tags>
         <tag>心情</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>数学公式</title>
-    <url>/2021/04/28/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
-    <content><![CDATA[<p>$$\left( \dfrac {1}{2}-2x\right) ^{2}$$</p>
-<p>$$f\left( x\right) =2x^{2}+2x+1$$</p>
-<p>网址：<a href="http://webdemo.myscript.com/views/math.html#/demo/equation">http://webdemo.myscript.com/views/math.html#/demo/equation</a></p>
-]]></content>
   </entry>
 </search>
